@@ -1,4 +1,6 @@
-/week00_news_correlation
-/__pycache__
+week00_news_correlation
 /.mypy_cache
 /.ipynb_checkpoints
+/__pycache__
+/notebooks/.ipynb_checkpoints
+/extracting_and_modeling/.ipynb_checkpoints
