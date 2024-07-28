@@ -7,8 +7,10 @@ This repository explores a news article dataset from Kaggle to gain valuable ins
 
 **Geographical Focus:** Determine the countries with the most news media and those most frequently written about.
 
-Keyword Extraction: Extract keywords from news articles and analyze their similarity to title keywords.
+**Keyword Extraction:** Extract keywords from news articles and analyze their similarity to title keywords.
 
-Topic Modeling: using topic modeling techniques, Uncover latent themes and relationships between words.
-Trend Analysis: Identify trends in news articles over time.
-Event Modeling: Model the events that the news articles are written about.
+**Topic Modeling:** using topic modeling techniques, Uncover latent themes and relationships between words.
+
+**Trend Analysis:** Identify trends in news articles over time.
+
+**Event Modeling:** Model the events that the news articles are written about.
